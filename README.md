@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi human👋
+<p align="center">
+  <a href="https://medium.com/@Stevemats"><img src="https://img.shields.io/badge/Follow%20Me%20On%20Medium-%40Stevemats-black"></a>
+	<a href="https://github.com/stevemats"><img src="https://img.shields.io/github/followers/stevemats.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/stevemats"><img src="https://img.shields.io/twitter/follow/stevematindi?label=Twitter&style=social" alt="Twitter"></a>
 
 [![animated](https://github.com/stevemats/stevemats/blob/master/img/steve-code.gif)](https://stevematindi.com)
 <!--
