@@ -15,8 +15,10 @@
 
 	
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=stevemats" alt="stevemats" />
   <a href="https://medium.com/@Stevemats"><img src="https://img.shields.io/badge/Follow%20Me%20On%20Medium-%40Stevemats-black"></a>
-  <a href="https://twitter.com/stevemats"><img src="https://img.shields.io/twitter/follow/stevematindi?label=Twitter&style=social" alt="Twitter"></a>
+  <a href="https://twitter.com/stevemats"><img src="https://img.shields.io/twitter/follow/stevematindi?label=Twitter&style=social" alt="Twitter"></a> 
+
 </p>
 
 <!--
